@@ -2,28 +2,28 @@
 Web Scraper
 readme.txt
 
-###>----- Universidad Nacional Autónoma de México -----<
+### Universidad Nacional Autónoma de México
 
-###>----- Facultad de Ciencias -----<
+### Facultad de Ciencias
 
-###>----- Manejo de Datos -----<
+### Manejo de Datos
 
-###>----- Proyecto Final -----
+### Proyecto Final
 
-##----- Hecho por: -----
->-Hernández Sánchez María José
+## Hecho por:
+>Hernández Sánchez María José
 
->-Quiñones Ramírez Marlene Casandra
+>Quiñones Ramírez Marlene Casandra
 
->-Ramirez Coria Sandra Gisselle
+>Ramirez Coria Sandra Gisselle
 
->-Torres Nuñez Diego
+>Torres Nuñez Diego
 
-##----- Explicación del proyecto -----
+## ----- Explicación del proyecto -----
 
 Nos basamos en el tema de ropa, por lo que las tiendas que decidimos usar para esta gran proyecto fueron Calvin Klein, H&M, Julio, Zara y Forever 21, ya que consideramos que son marcas que se han logrado posicionar como las mejores en el mercado. Además, los productos con los cuales decidimos desarrollar nuestra base de datos, que también estará almacenada en un archivo de tipo .xlsx, fueron blusas, chamarras, jeans de mezclilla, tacones y zapatos.
 
-##----- Instrucciones para ejecutar el proyecto -----
+## ----- Instrucciones para ejecutar el proyecto -----
 
 Es un archivo elaborado en Jupyter Notebook, realizamos 5 web scrapers (en el código real sólo se utilizan 3) y a través de Chromedriver extrajimos lo más importante de estas tiendas de ropa como los productos con sus costos, su costo con descuento, si existe, y por supuesto el link para adquirir dicha prenda. Por lo que, si se desea ejecutar el archivo de preferencia realizarlo en Jupyter Notebook o en su defecto en Google Colab, ahí abriremos el archivo con nombre “Web Scraper proyecto final final.ipynb” y dentro de él vienen bastantes partes del código, cada una de ellas con sus pertinentes comentarios. Antes de comenzar a ejecutarlo, es necesario verificar que las librerías que se requieren están instaladas en sus computadoras (específicamente para las dos librerías que se encuentran al principio del código), después de esto, podemos proseguir con la ejecución. En el trabajo encontraremos distintas secciones:
 
